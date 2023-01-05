@@ -90,7 +90,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'todo2appbackend.wsgi.application'
+WSGI_APPLICATION = 'todoappbackend.wsgi.application'
 
 
 # Database
